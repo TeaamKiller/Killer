@@ -6321,8 +6321,17 @@ Text = [[
 👨🏻‍💻┇ [Killer Dev](t.me/alhassan_talib)
 
  ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ 
-📧┇ [tws Killer](t.me/alhassantalib_bot)
+📧┇ [Tws Killer](t.me/alhassantalib_bot)
 
+]]
+send(msg.chat_id_, msg.id_,Text)
+end
+if text == 'حذف' or text == 'رابط الحذف' or text == 'بوت الحذف' then
+Text = [[
+🗑¦رابط حذف التلي ، ⬇
+‼¦احذف ولا ترجع عيش حياتك'
+┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉
+🔰┇[اضغط هنا للحذف الحساب](https://telegram.org/deactivate)
 ]]
 send(msg.chat_id_, msg.id_,Text)
 end
