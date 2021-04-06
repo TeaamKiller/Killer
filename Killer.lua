@@ -6311,16 +6311,7 @@ send(msg.chat_id_, msg.id_, "☑┇تم التحديث")
 end
 if text == 'السورس' or text == 'سورس' or text == 'ياسورس' or text == 'يا سورس' then
 Text = [[
-
-- KILLER TEAM .
- — — — — — — — — — 
-
-⌔︙[KILLER 𝖲𝗈𝗎𝗋𝖼𝖾  .](t.me/Killer)
-
-⌔︙[ToolS Killer  .](t.me/Killer)
-
-⌔︙[ 𝖳WSL Source Killer .](t.me/alhassantalib_bot)
-
+Ch : @cH_Killer .
 ]]
 send(msg.chat_id_, msg.id_,Text)
 end
