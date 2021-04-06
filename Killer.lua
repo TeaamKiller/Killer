@@ -6312,12 +6312,16 @@ end
 if text == 'السورس' or text == 'سورس' or text == 'ياسورس' or text == 'يا سورس' then
 Text = [[
 
-🌐┇ Welcome to Source Killer
+🌐┇ Welcome to killer source.
+
 ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ 
 
-🚩┇[ Tm   -  ”Killer”](t.me/cH_Killer)
+📊┇[Source Channel](t.me/cH_Killer)
+ 
+👨🏻‍💻┇ [Killer Dev](t.me/alhassan_talib)
 
- ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ 
+ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ 
+📧┇ [tws Killer](t.me/alhassantalib_bot)
 
 ]]
 send(msg.chat_id_, msg.id_,Text)
